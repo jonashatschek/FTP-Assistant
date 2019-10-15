@@ -1,0 +1,19 @@
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\FTP Assistant.exe.config
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\FTP Assistant.exe
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\FTP Assistant.pdb
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP_Assistant.Properties.Resources.resources
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.csproj.GenerateResource.cache
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.csproj.CoreCompileInputs.cache
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.exe
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.pdb
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\HtmlAgilityPack.dll
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\HtmlAgilityPack.xml
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.csproj.CopyComplete
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\itextsharp.dll
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\itextsharp.xml
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP Assistant.csprojResolveAssemblyReference.cache
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\EPPlus.dll
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\bin\Debug\EPPlus.xml
+C:\Users\JOHAH\source\repos\FTP Assistant\FTP Assistant\obj\Debug\FTP_Assistant.FTPassistant.resources
